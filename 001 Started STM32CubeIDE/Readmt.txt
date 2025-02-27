@@ -1,0 +1,18 @@
+
+README
+============
+[Topic] :  Blinking code with LED. 
+
+[Idea]: The program consists of flashing an LED on a target. 
+The LED flashes a randomly generated code consisting of 5 values ​​(from 0 to 10).
+
+I will go through all the steps from starting the STM32CubeIDE to compiling the program on the target.
+
+Here you can find 3 files: 
+	Description.docx
+	Flashing led code.zip
+	Result.mp4
+
+<Description.docx> - Step-by-step description of project development.
+<Flashing led code.zip> - The project.
+<Result.mp4> - Video of the project working. In the video you can see that Led blinking code [48323].
